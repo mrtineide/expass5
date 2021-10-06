@@ -1,6 +1,7 @@
 [submodule "springbootdemo_dat250"]
 	path = springbootdemo_dat250
 	url = https://github.com/mrtineide/springbootdemo_dat250
+	branch = main
 [submodule "gs-accessing-data-jpa"]
 	path = gs-accessing-data-jpa
 	url = https://github.com/mrtineide/gs-accessing-data-jpa
