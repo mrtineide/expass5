@@ -5,6 +5,7 @@
 [submodule "gs-accessing-data-jpa"]
 	path = gs-accessing-data-jpa
 	url = https://github.com/mrtineide/gs-accessing-data-jpa
+	branch = main
 [submodule "gs-rest-service"]
 	path = gs-rest-service
 	url = https://github.com/mrtineide/gs-rest-service
